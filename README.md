@@ -4,6 +4,6 @@ This Jupyter Notebook accompanies the article titled ["Economic Value Added"](ht
 
 **Pre-requisites:** 
 
-** Workspace** with access to [LSEG Data Library for Python](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python)
+**Workspace** with access to [LSEG Data Library for Python](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python)
 
 **Required Python Packages:** lseg-data, pandas, numpy, matplotlib, numpy_financial
